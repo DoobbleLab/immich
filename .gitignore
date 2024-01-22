@@ -3,3 +3,4 @@
 model-cache
 pgdata
 tsdata
+remove_untracked_files.sh
